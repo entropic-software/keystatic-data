@@ -1,0 +1,13 @@
+title: Internistische Gemeinschaftspraxis
+description: Test Desc
+draft: false
+images:
+  - images/0.png
+date: 2024-01-26
+tech:
+  - icon: tech/0/icon.svg
+    name: Strapi
+    link: https://strapi.com
+  - icon: tech/1/icon.svg
+    name: Next.js
+    link: https://nextjs.org
